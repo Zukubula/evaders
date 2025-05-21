@@ -2,4 +2,4 @@
 
 ## Developers
 
-1. @mkouba
+1. [mkouba](https://github.com/mkouba)
